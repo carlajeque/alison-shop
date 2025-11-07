@@ -1,0 +1,16 @@
+{
+  "name": "Alison Shop",
+  "short_name": "Alison",
+  "description": "Tudo que você precisa em um só lugar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0b",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
