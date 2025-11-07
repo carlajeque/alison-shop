@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": {
+      "pt": "Camiseta básica",
+      "en": "Basic T-shirt",
+      "zh": "基础T恤",
+      "fr": "T-shirt basique"
+    },
+    "price": 499,
+    "img": "/logo.svg",
+    "category": "Roupas"
+  },
+  {
+    "id": "p2",
+    "name": {
+      "pt": "Liquidificador",
+      "en": "Blender",
+      "zh": "搅拌机",
+      "fr": "Mixeur"
+    },
+    "price": 3499,
+    "img": "/logo.svg",
+    "category": "Eletrodomésticos"
+  },
+  {
+    "id": "p3",
+    "name": {
+      "pt": "Conjunto de Panelas",
+      "en": "Cookware set",
+      "zh": "锅具套装",
+      "fr": "Batterie de cuisine"
+    },
+    "price": 8999,
+    "img": "/logo.svg",
+    "category": "Utensílios"
+  }
+]
